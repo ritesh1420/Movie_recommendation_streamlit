@@ -65,18 +65,12 @@ st.markdown(
             opacity: 1;
         }
     }
-    .main-content {
-        background-color: #ffffff; /* White background for main content */
-        padding: 20px;
-        border-radius: 10px;
-        margin-bottom: 20px;
-    }
     .comment-section {
         background-color: #3498db; /* Updated color: Blue */
         color: #ffffff;
-        padding: 20px;
-        border-radius: 10px;
-        margin-bottom: 20px;
+        padding: 14px;
+        border-radius: 8px;
+        margin-bottom: 12px;
     }
     </style>
     """,
