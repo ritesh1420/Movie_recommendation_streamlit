@@ -1,2 +1,4 @@
-wikipedia-api==0.5.4
+streamlit
+requests
+pandas
 wikipedia
