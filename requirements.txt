@@ -1,3 +1,5 @@
 pickle
 streamlit
 requests
+pandas
+wikipedia
